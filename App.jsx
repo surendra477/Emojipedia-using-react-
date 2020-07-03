@@ -1,5 +1,5 @@
 import React from "react";
-import emojipedia from "../emojipedia";
+import emojipedia from "./emojipedia";
 import Card from "./Card";
 var Year = new Date();
 var currentYear = Year.getFullYear();
